@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Parth.
 
-<!--
-**Parth515/Parth515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Mechatronics & Robotics  
+🧠 Thesis: Deep Learning-Based Real-Time Localization for Mobile Robots  
+🔧 Currently diving deep into CI/CD for robotics and AI systems  
+🎯 Aspiring to build a career in the robotics & AI industry
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 **Languages**: Python, C++ (basic)
+- 🤖 **Robotics**: ROS2, OpenCV, Jetson Nano
+- 🧠 **AI/ML**: PyTorch, TensorFlow
+- 🐳 **DevOps**: Docker, GitHub Actions (learning CI/CD)
+- 🛠️ **Others**: Ubuntu, Raspberry Pi, Arduino
+
+## 📚 2025 Goals
+
+- ✅ Complete and open-source thesis work  
+- 🚀 Join an AI/Robotics team in industry  
+- 🧠 Contribute to ROS2 or PyTorch open-source projects  
+- 📦 Build a modular robotics platform with CI/CD integration
+
+---
+
+_“Robots that learn and adapt in real-time—that’s the future I’m building for.”_
