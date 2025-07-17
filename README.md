@@ -26,13 +26,6 @@ Starting with small, easy to do script, then increasing difficulty level.
 - 🐳 **DevOps**: Docker, GitHub Actions (learning CI/CD)
 - 🛠️ **Others**: Ubuntu, Raspberry Pi, Arduino
 
-## 📚 2025 Goals
-
-- ✅ Complete and open-source thesis work  
-- 🚀 Join an AI/Robotics team in industry  
-- 🧠 Contribute to ROS2 or PyTorch open-source projects  
-- 📦 Build a modular robotics platform with CI/CD integration
-
 ---
 
 _“Robots that learn and adapt in real-time—that’s the future I’m building for.”_
