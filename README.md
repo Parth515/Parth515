@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Parth.
 
-Master's in Mechatronics & Robotics
 ---
 
 ## 🛠️ Tech Stack
