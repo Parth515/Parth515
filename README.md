@@ -1,19 +1,21 @@
 # 👋 Hi, I'm Parth.
 
-🎓 Master's student in Mechatronics & Robotics  
-🧠 Thesis: Deep Learning-Based Real-Time Localization for Mobile Robots  
-🔧 Currently diving deep into CI/CD for robotics and AI systems  
-🎯 Aspiring to build a career in the robotics & AI industry
-
+Master's in Mechatronics & Robotics
 ---
 
 ## 🛠️ Tech Stack
 
-- 💻 **Languages**: Python, C++ (basic)
-- 🤖 **Robotics**: ROS2, OpenCV
-- 🧠 **AI/ML**: PyTorch, TensorFlow
-- 🐳 **DevOps**: Docker, GitHub Actions (learning CI/CD)
-- 🛠️ **Others**: Ubuntu, Raspberry Pi, Arduino
+- **Languages**: Python, C++ 
+- **Robotics**: ROS2, OpenCV
+- **AI/ML**: PyTorch, TensorFlow
+- **DevOps**: Docker, GitHub Actions (learning CI/CD)
+- **Others**: Ubuntu, Raspberry Pi, Arduino
+
+---
+
+## 🚀 Projects
+- [Robot Vision Feedback Loop — Industrial Anomaly Detection] – Unsupervised anomaly detection system for industrial inspection using PatchCore + ResNet50. Learns normal patterns only and detects defects as deviations, making it suitable for real-world factory environments with unknown or rare failures.
+- [Image Segmentation and Representation Learning] – image segmentation and feature extraction pipelines, including autoencoder based representation learning to support downstream tasks such as object recognition and scene understanding.
 
 ---
 
