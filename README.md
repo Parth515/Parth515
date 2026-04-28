@@ -1,6 +1,3 @@
-
----
-
 ## Tech Stack
 
 - **Languages**: Python, C++ 
@@ -25,3 +22,4 @@
 ---
 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Parth515)
